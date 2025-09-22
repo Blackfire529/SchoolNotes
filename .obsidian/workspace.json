@@ -1,0 +1,214 @@
+{
+  "main": {
+    "id": "4243eb13740224ca",
+    "type": "split",
+    "children": [
+      {
+        "id": "3006f8aeb7e038e0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c8e23b0c58667b00",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "61672b11f1c5a73c",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f570c3a0effe61e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dcfc38d08c2a6186",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0277b11c7c7ba9a1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6a28e9df9c03f89a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "a2962f13249ffceb",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f136f5abcf4d413",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "16a65a7462e9b886",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Programming/JavaScript TheOdinProject.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for JavaScript TheOdinProject"
+            }
+          },
+          {
+            "id": "f2effe8757d1910d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Programming/JavaScript TheOdinProject.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from JavaScript TheOdinProject"
+            }
+          },
+          {
+            "id": "fa43d7be3a29eb1f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6c705fc7238b133d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Programming/JavaScript TheOdinProject.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of JavaScript TheOdinProject"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
+    }
+  },
+  "active": "dcfc38d08c2a6186",
+  "lastOpenFiles": [
+    "SchoolNotes/Math 1740/imgs/Pasted image 20250922174413.png",
+    "SchoolNotes/Math 1740/imgs/Pasted image 20250914111205.png",
+    "SchoolNotes/Math 1740/imgs/Pasted image 20250914111155.png",
+    "SchoolNotes/Math 1740/imgs/Pasted image 20250914111056.png",
+    "SchoolNotes/Math 1740/imgs/Pasted image 20250914095133.png",
+    "SchoolNotes/Math 1740/imgs/Pasted image 20250914090051.png",
+    "SchoolNotes/Math 1740/imgs/Pasted image 20250914085814.png",
+    "SchoolNotes/Math 1740/imgs/Pasted image 20250914090211.png",
+    "SchoolNotes/Math 1740/imgs/Pasted image 20250914085722.png",
+    "SchoolNotes/Math 1740/imgs/Pasted image 20250911171446.png",
+    "SchoolNotes/Math 1740/imgs/Pasted image 20250911171359.png",
+    "SchoolNotes/Math 1740/Helpful notes/What is an Inverse Function - Filled Out (1).pdf",
+    "SchoolNotes/Math 1740/Helpful notes/Vertical horizontal shift - Filled Out.pdf",
+    "SchoolNotes/Math 1740/Helpful notes/types_of_variation.pdf",
+    "SchoolNotes/Math 1740/Helpful notes/Reflect, Stretch Shrink - Filled Out.pdf",
+    "SchoolNotes/Math 1740/Helpful notes/radical_rules.pdf",
+    "SchoolNotes/Math 1740/Helpful notes/One to One - Filled Out (1).pdf",
+    "SchoolNotes/Math 1740/Helpful notes/Increasing.Decreasing.Min.Max.Piecewise - FILLED OUT.pdf",
+    "SchoolNotes/Math 1740/Helpful notes/Function.Notation.DomainRange - FILLED OUT - 2.pdf",
+    "SchoolNotes/Math 1740/Helpful notes/How to find Inverse - Filled Out (1).pdf",
+    "SchoolNotes/Math 1740/Helpful notes/factoring_rules.pdf",
+    "SchoolNotes/Math 1740/0 MATH Notes.md",
+    "SchoolNotes/Comp Systems & Software/Research Paper.md",
+    "SchoolNotes/Comp Systems & Software/CENT.md",
+    "SchoolNotes/Psychology/PSYC.md",
+    "SchoolNotes/Psychology/Group 7 Chapter 16.md",
+    "SchoolNotes/Programming/JavaScript TheOdinProject.md",
+    "SchoolNotes/Programming/Java W3.md",
+    "Math 1740/0 MATH Notes.md",
+    "Comp Systems & Software/Research Paper.md",
+    "Psychology/Group 7 Chapter 16.md",
+    "Code Ninjas.md",
+    "Programming/JavaScript TheOdinProject.md",
+    "Programming/Java W3.md",
+    "Comp Systems & Software/CENT.md",
+    "Wifi Login.md",
+    "[[Chapter.md",
+    "Psychology/PSYC.md",
+    "Java Programming 2.md"
+  ]
+}
