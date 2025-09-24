@@ -84,3 +84,42 @@ $gof(x) = g(f(x))$
 
 ![[Pasted image 20250922174413.png]]
 
+![[Pasted image 20250923051053.png]]
+
+![[Pasted image 20250923051216.png]]
+
+![[Pasted image 20250923051350.png]]
+
+![[Pasted image 20250923051646.png]]
+
+![[Pasted image 20250923052210.png]]
+
+![[Pasted image 20250923052444.png]]
+
+![[Pasted image 20250923054604.png]]
+
+![[Pasted image 20250923053331.png]]
+
+![[Pasted image 20250923054857.png]]
+
+![[Pasted image 20250923055044.png]]
+
+![[Pasted image 20250923055111.png]]
+
+![[Pasted image 20250923055321.png]]
+
+![[Pasted image 20250923055347.png]]
+
+![[Pasted image 20250923061914.png]]
+
+![[HowTo SimlifyAComplexEquation.mp4]]
+
+![[Pasted image 20250923070328.png]]
+![[Pasted image 20250923070725.png]]
+
+![[Pasted image 20250923074854.png]]
+
+![[Pasted image 20250923101930.png]]
+
+![[Pasted image 20250923102133.png]]
+
