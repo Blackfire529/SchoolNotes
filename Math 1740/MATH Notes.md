@@ -164,3 +164,36 @@ $gof(x) = g(f(x))$
 ![[Pasted image 20250924162154.png]]
 
 ![[Pasted image 20250924162232.png]]
+
+![[Pasted image 20250925050657.png]]
+![[Pasted image 20250925050723.png]]
+
+![[Pasted image 20250925054446.png]]
+
+![[Pasted image 20250925060527.png]]
+
+![[Pasted image 20250925060728.png]]
+![[Pasted image 20250925060749.png]]
+
+![[Pasted image 20250925060817.png]]
+
+![[Pasted image 20250925060855.png]]
+
+![[Pasted image 20250925063647.png]]
+
+![[Pasted image 20250925065439.png]]
+
+![[Pasted image 20250925065501.png]]
+![[Pasted image 20250925065521.png]]
+![[Pasted image 20250925065540.png]]
+
+![[Pasted image 20250925065621.png]]
+![[Pasted image 20250925065653.png]]
+![[Pasted image 20250925065715.png]]
+![[Pasted image 20250925065739.png]]
+![[Pasted image 20250925065806.png]]
+
+![[Pasted image 20250925072654.png]]
+![[Pasted image 20250925072631.png]]
+
+![[Pasted image 20250925073109.png]]
