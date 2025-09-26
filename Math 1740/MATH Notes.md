@@ -232,3 +232,7 @@ $gof(x) = g(f(x))$
 
 ![[Pasted image 20250925192207.png]]
 
+![[Pasted image 20250926124230.png]]
+
+![[Pasted image 20250926134729.png]]
+
