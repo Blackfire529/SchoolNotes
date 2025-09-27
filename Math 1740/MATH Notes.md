@@ -1,3 +1,4 @@
+# Functions
 ![[Pasted image 20250826072311.png]]
 
 To find the Y-coordinate input the X-coordinate into the function that is given
@@ -8,7 +9,7 @@ EX: when x = -2 the function will result the y in $f(-2)=2(-2)=-4$
 $f(x)=x+3$
 
 When finding the domain and range, there can be more that 1 domain but there can only be 1 range.
-
+## Difference Quotient
 ![[Pasted image 20250828053844.png]]
 
 to handle square roots:
@@ -81,7 +82,7 @@ $gof(x) = g(f(x))$
 ![[Pasted image 20250914111155.png]]
 
 ![[Pasted image 20250914111205.png]]
-
+# Graphing Functions
 ![[Pasted image 20250922174413.png]]
 
 ![[Pasted image 20250923051053.png]]
@@ -122,7 +123,7 @@ $gof(x) = g(f(x))$
 ![[Pasted image 20250923101930.png]]
 
 ![[Pasted image 20250923102133.png]]
-
+# Matrix
 ![[Pasted image 20250924130807.png]]
 ![[Pasted image 20250924130918.png]]
 ![[Pasted image 20250924130853.png]]
@@ -139,7 +140,7 @@ $gof(x) = g(f(x))$
 ![[Pasted image 20250924131938.png]]![[Pasted image 20250924132026.png]]
 ![[Pasted image 20250924132039.png]]
 
-
+# Matrix Gaussian Elimination
 ![[Pasted image 20250924135906.png]]
 ![[Pasted image 20250924135938.png]]
 ![[Pasted image 20250924140230.png]]
@@ -154,7 +155,7 @@ $gof(x) = g(f(x))$
 ![[Pasted image 20250924140949.png]]
 ![[Pasted image 20250924141023.png]]
 
-
+# Matrix Gauss-Jordan Elimination
 ![[Pasted image 20250924141111.png]]
 ![[Pasted image 20250924141130.png]]
 ![[Pasted image 20250924141234.png]]
@@ -164,7 +165,7 @@ $gof(x) = g(f(x))$
 ![[Pasted image 20250924162154.png]]
 
 ![[Pasted image 20250924162232.png]]
-
+# Cramer's Rule
 ![[Pasted image 20250925050657.png]]
 ![[Pasted image 20250925050723.png]]
 
@@ -197,17 +198,17 @@ $gof(x) = g(f(x))$
 ![[Pasted image 20250925072631.png]]
 
 ![[Pasted image 20250925073109.png]]
-
+# Angles & Circles
 ![[Pasted image 20250925142244.png]]
 
 ![[Pasted image 20250925142651.png]]![[Pasted image 20250925143152.png]]
 
 ![[Pasted image 20250925143321.png]]
-
+## Degrees & Radians Conversion
 ![[Pasted image 20250925144653.png]]
 ![[Pasted image 20250925151051.png]]
 ![[Pasted image 20250925151117.png]]
-
+## Degree Minute Second
 ![[Pasted image 20250925150004.png]]
 ![[Pasted image 20250925151223.png]]
 
@@ -218,18 +219,18 @@ $gof(x) = g(f(x))$
 ![[Pasted image 20250925152603.png]]![[Pasted image 20250925152622.png]]
 ![[Pasted image 20250925152640.png]]
 ![[Pasted image 20250925152700.png]]
-
+# Coterminal Angles
 ![[Pasted image 20250925183330.png]]
 
 ![[Pasted image 20250925183345.png]]
 
 ![[Pasted image 20250925183859.png]]
-
+## Arc Length
 ![[Pasted image 20250925184316.png]]
 
 ![[Pasted image 20250925184911.png]]
 ![[Pasted image 20250925190154.png]]
-
+## Linear & Angular Speed
 ![[Pasted image 20250925192207.png]]
 
 ![[Pasted image 20250926124230.png]]
@@ -238,3 +239,13 @@ $gof(x) = g(f(x))$
 
 ![[Pasted image 20250926140658.png]]
 
+![[Pasted image 20250927084904.png]]
+
+![[Pasted image 20250927090945.png]]
+
+![[Pasted image 20250927100644.png]]
+![[Pasted image 20250927101018.png]]
+
+![[Pasted image 20250927105305.png]]
+![[Pasted image 20250927105421.png]]
+![[Pasted image 20250927105559.png]]
