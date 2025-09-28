@@ -244,12 +244,15 @@ $gof(x) = g(f(x))$
 ![[Pasted image 20250927090945.png]]
 
 ![[Pasted image 20250927100644.png]]
+
 ![[Pasted image 20250927101018.png]]
 
+![[Pasted image 20250927222202.png]]
+# Fractions
 ![[Pasted image 20250927105305.png]]
 ![[Pasted image 20250927105421.png]]
 ![[Pasted image 20250927105559.png]]
-
+# Periodic Function
 ![[Pasted image 20250927174240.png]]
 
 ![[Pasted image 20250927174406.png]]
@@ -258,4 +261,22 @@ $gof(x) = g(f(x))$
 
 ![[Pasted image 20250927175150.png]]
 
+![[Pasted image 20250927195207.png]]
+
+![[Pasted image 20250927201025.png]]
+
+![[Pasted image 20250927201043.png]]
+
+![[Pasted image 20250927201135.png]]
+
+![[Pasted image 20250927201201.png]]
+
+![[Pasted image 20250927213808.png]]
+
+![[Pasted image 20250927215532.png]]
+
+![[Pasted image 20250927215602.png]]
+![[Pasted image 20250927221836.png]]
+
+![[Pasted image 20250927221951.png]]
 
