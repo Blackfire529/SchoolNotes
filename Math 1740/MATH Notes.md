@@ -252,7 +252,7 @@ $gof(x) = g(f(x))$
 ![[Pasted image 20250927105305.png]]
 ![[Pasted image 20250927105421.png]]
 ![[Pasted image 20250927105559.png]]
-# Periodic Function
+# Periodic Function/ Exact Value
 ![[Pasted image 20250927174240.png]]
 
 ![[Pasted image 20250927174406.png]]
@@ -261,8 +261,6 @@ $gof(x) = g(f(x))$
 
 ![[Pasted image 20250927175150.png]]
 
-![[Pasted image 20250927195207.png]]
-
 ![[Pasted image 20250927201025.png]]
 
 ![[Pasted image 20250927201043.png]]
@@ -270,8 +268,13 @@ $gof(x) = g(f(x))$
 ![[Pasted image 20250927201135.png]]
 
 ![[Pasted image 20250927201201.png]]
-
+![[Pasted image 20250928105053.png]]
+# Reciprocal Identities
 ![[Pasted image 20250927213808.png]]
+
+![[Pasted image 20250928103739.png]]
+
+![[Pasted image 20250928103817.png]]
 
 ![[Pasted image 20250927215532.png]]
 
