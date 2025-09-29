@@ -204,10 +204,11 @@ $gof(x) = g(f(x))$
 ![[Pasted image 20250925142651.png]]![[Pasted image 20250925143152.png]]
 
 ![[Pasted image 20250925143321.png]]
-## Degrees & Radians Conversion
+6## Degrees & Radians Conversion
 ![[Pasted image 20250925144653.png]]
 ![[Pasted image 20250925151051.png]]
 ![[Pasted image 20250925151117.png]]
+
 ## Degree Minute Second
 ![[Pasted image 20250925150004.png]]
 ![[Pasted image 20250925151223.png]]
@@ -219,7 +220,7 @@ $gof(x) = g(f(x))$
 ![[Pasted image 20250925152603.png]]![[Pasted image 20250925152622.png]]
 ![[Pasted image 20250925152640.png]]
 ![[Pasted image 20250925152700.png]]
-# Coterminal Angles
+# [Coterminal Angles](https://www.youtube.com/watch?v=6BRtPfofXog&t)
 ![[Pasted image 20250925183330.png]]
 
 ![[Pasted image 20250925183345.png]]
@@ -244,7 +245,7 @@ $gof(x) = g(f(x))$
 ![[Pasted image 20250927090945.png]]
 
 ![[Pasted image 20250927100644.png]]
-
+# Sin-Cot
 ![[Pasted image 20250927101018.png]]
 
 ![[Pasted image 20250927222202.png]]
@@ -252,6 +253,7 @@ $gof(x) = g(f(x))$
 ![[Pasted image 20250927105305.png]]
 ![[Pasted image 20250927105421.png]]
 ![[Pasted image 20250927105559.png]]
+![[Pasted image 20250929104535.png]]
 # Periodic Function/ Exact Value
 ![[Pasted image 20250927174240.png]]
 
@@ -283,3 +285,12 @@ $gof(x) = g(f(x))$
 
 ![[Pasted image 20250927221951.png]]
 
+![[Pasted image 20250928111213.png]]
+
+![[Pasted image 20250928112436.png]]
+
+![[Pasted image 20250929095933.png]]
+
+![[Pasted image 20250929100200.png]]
+
+# bottom

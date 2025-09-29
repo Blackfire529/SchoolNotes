@@ -11,12 +11,14 @@
             "id": "a5b628355a84cb88",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Math 1740/imgs/Pasted image 20250926124230.png"
+                "file": "Math 1740/MATH Notes.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250926124230"
+              "icon": "lucide-file",
+              "title": "MATH Notes"
             }
           }
         ]
@@ -169,27 +171,27 @@
   },
   "active": "49ffc2ea4b0ac0e3",
   "lastOpenFiles": [
-    "Fall 2025.md",
-    "Math 1740/MATH Notes.md",
-    "Math 1740/imgs/Pasted image 20250926140658.png",
-    "Math 1740/imgs/Pasted image 20250926134729.png",
-    "Math 1740/imgs/Pasted image 20250926124230.png",
-    "Math 1740/imgs/Pasted image 20250925184911.png",
-    "Math 1740/imgs/Pasted image 20250925192207.png",
-    "Math 1740/imgs/Pasted image 20250925190154.png",
-    "Math 1740/imgs/Pasted image 20250925183330.png",
-    "Math 1740/imgs/Pasted image 20250925184316.png",
-    "Math 1740/imgs/Pasted image 20250925183859.png",
-    "Math 1740/imgs/Pasted image 20250925183345.png",
-    "Math 1740/Helpful notes/Coterminal - Filled Out.pdf",
     "Math 1740/Unit+Circle+with+Negative+Angles.pdf",
+    "Math 1740/MATH Notes.md",
+    "Fall 2025.md",
+    "Math 1740/imgs/Pasted image 20250929095933.png",
+    "Math 1740/imgs/Pasted image 20250929104535.png",
+    "Math 1740/imgs/Pasted image 20250929100200.png",
+    "Math 1740/imgs/Pasted image 20250928111213.png",
+    "Math 1740/imgs/Pasted image 20250928112436.png",
+    "QCE MM TRB for CX II-T 2025.pdf",
+    "Math 1740/imgs/Pasted image 20250928105053.png",
+    "Math 1740/imgs/Pasted image 20250928103817.png",
+    "Math 1740/imgs/Pasted image 20250928103739.png",
+    "Math 1740/imgs/Pasted image 20250926124230.png",
+    "Math 1740/imgs/Pasted image 20250926140658.png",
+    "Math 1740/Helpful notes/Coterminal - Filled Out.pdf",
     "Math 1740/Helpful notes/Cramers Rule - Filled Out.pdf",
     "Math 1740/Helpful notes/Determinants - Filled Out.pdf",
     "Math 1740/Helpful notes/Domain without a Graph - FILLED OUT.pdf",
     "Math 1740/Helpful notes/exponential_rules.pdf",
     "Math 1740/Helpful notes/factoring_rules.pdf",
     "Math 1740/Helpful notes/Function.Notation.DomainRange - FILLED OUT - 2.pdf",
-    "Math 1740/Helpful notes/Graphs to Know - Filledc Out.pdf",
-    "Math 1740/Helpful notes/How to find Inverse - Filled Out (1).pdf"
+    "Math 1740/Helpful notes/Graphs to Know - Filledc Out.pdf"
   ]
 }

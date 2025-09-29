@@ -1,0 +1,95 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1759161619170,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1759161614425,
+          "path": "Math 1740/MATH Notes.md",
+          "subpath": "#Functions",
+          "title": "Functions"
+        },
+        {
+          "type": "file",
+          "ctime": 1759161633229,
+          "path": "Math 1740/MATH Notes.md",
+          "subpath": "#Cramer's Rule",
+          "title": "Cramer's Rule"
+        },
+        {
+          "type": "file",
+          "ctime": 1759162880981,
+          "path": "Math 1740/MATH Notes.md",
+          "subpath": "#Degrees & Radians Conversion",
+          "title": "Degrees & Radians Conversion"
+        },
+        {
+          "type": "file",
+          "ctime": 1759161642154,
+          "path": "Math 1740/MATH Notes.md",
+          "subpath": "#Degree Minute Second",
+          "title": "Degree Minute Second"
+        },
+        {
+          "type": "file",
+          "ctime": 1759162897115,
+          "path": "Math 1740/MATH Notes.md",
+          "subpath": "#Coterminal Angles",
+          "title": "Coterminal Angles"
+        },
+        {
+          "type": "file",
+          "ctime": 1759162908030,
+          "path": "Math 1740/MATH Notes.md",
+          "subpath": "#Arc Length",
+          "title": "Arc Length"
+        },
+        {
+          "type": "file",
+          "ctime": 1759162915471,
+          "path": "Math 1740/MATH Notes.md",
+          "subpath": "#Linear & Angular Speed",
+          "title": "Linear & Angular Speed"
+        },
+        {
+          "type": "file",
+          "ctime": 1759162964814,
+          "path": "Math 1740/MATH Notes.md",
+          "subpath": "#Sin-Cot",
+          "title": "Sin-Cot"
+        },
+        {
+          "type": "file",
+          "ctime": 1759164032809,
+          "path": "Math 1740/MATH Notes.md",
+          "subpath": "#Reciprocal Identities",
+          "title": "Reciprocal Identities"
+        },
+        {
+          "type": "file",
+          "ctime": 1759164250231,
+          "path": "Math 1740/MATH Notes.md",
+          "subpath": "#Periodic Function/ Exact Value",
+          "title": "Periodic Function/ Exact Value"
+        },
+        {
+          "type": "file",
+          "ctime": 1759167083875,
+          "path": "Math 1740/MATH Notes.md",
+          "subpath": "#Linear & Angular Speed",
+          "title": "Linear & Angular Speed"
+        }
+      ],
+      "title": "math"
+    },
+    {
+      "type": "file",
+      "ctime": 1759164439870,
+      "path": "Math 1740/MATH Notes.md",
+      "subpath": "#bottom",
+      "title": "bottom"
+    }
+  ]
+}
