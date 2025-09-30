@@ -23,15 +23,15 @@ sqrRoot(x) * sqrRoot(y) = sqrRoot(x) sqrRoot(y)
 ![[Pasted image 20250830083408.png]]
 
 ![[Pasted image 20250901151804.png]]
-
+# Point-Slope Form
 ![[Pasted image 20250901144552.png]]
-
+# Slope-intercept Form
 ![[Pasted image 20250901150041.png]]
 
 ![[Pasted image 20250901161927.png]]
 
 ![[Pasted image 20250901161959.png]]
-
+# General Form of the Equation of a Line
 ![[Pasted image 20250901173244.png]]
 
 ![[Pasted image 20250901174234.png]]
@@ -61,7 +61,7 @@ sqrRoot(x) * sqrRoot(y) = sqrRoot(x) sqrRoot(y)
 ![[Pasted image 20250911075945.png]]
 
 ![[Pasted image 20250911171359.png]]
-
+# How to Determine the domain of each function
 ![[Pasted image 20250911171446.png]]
 
 ![[Pasted image 20250914085722.png]]
@@ -282,7 +282,7 @@ $gof(x) = g(f(x))$
 
 ![[Pasted image 20250927215602.png]]
 ![[Pasted image 20250927221836.png]]
-
+# Trigonometric Functions
 ![[Pasted image 20250927221951.png]]
 
 ![[Pasted image 20250928111213.png]]
@@ -293,4 +293,4 @@ $gof(x) = g(f(x))$
 
 ![[Pasted image 20250929100200.png]]
 
-# bottom
+# Bottom
