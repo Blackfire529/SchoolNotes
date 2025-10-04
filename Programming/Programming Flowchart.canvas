@@ -1,5 +1,18 @@
 {
-	"nodes":[],
+	"nodes":[
+		{
+			"id":"9f7a198e5c515444",
+			"type":"text",
+			"text":"To-Do-List-App",
+			"styleAttributes":{
+				"textAlign":null
+			},
+			"x":-120,
+			"y":-20,
+			"width":260,
+			"height":60
+		}
+	],
 	"edges":[],
 	"metadata":{
 		"version":"1.0-1.0",
