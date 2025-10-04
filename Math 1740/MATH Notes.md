@@ -45,7 +45,7 @@ sqrRoot(x) * sqrRoot(y) = sqrRoot(x) sqrRoot(y)
 ![[Pasted image 20250901175758.png]]
 
 ![[Pasted image 20250902075722.png]]
-
+# Average Rate of Change of a Function
 ![[Pasted image 20250902052315.png]]
 
 ![[Pasted image 20250911051625.png]]
