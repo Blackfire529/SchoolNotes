@@ -293,4 +293,8 @@ $gof(x) = g(f(x))$
 
 ![[Pasted image 20250929100200.png]]
 
+# Right Triangle
+![[Right Triangle- Filled Out2.pdf#page=2&rect=106,207,524,526|Right Triangle- Filled Out2, p.2]]
+
+
 # Bottom
