@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "MATH Notes"
             }
+          },
+          {
+            "id": "6ef67279c1d284a3",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.14"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -171,6 +184,12 @@
   },
   "active": "49ffc2ea4b0ac0e3",
   "lastOpenFiles": [
+    "College Path/imgs/Student Detail Schedule Fall 2025.pdf",
+    "College Path/imgs/Program_ Computer Engineering Technology, A.A.S. - Southwest Tennessee Community College - Modern Campus Catalog™.pdf",
+    "College Path/imgs",
+    "College Path/Fall 2025.md",
+    "College Path/Detail Schedule.md",
+    "College Path",
     "Math 1740/Unit+Circle+with+Negative+Angles.pdf",
     "Math 1740/MATH Notes.md",
     "Fall 2025.md",
@@ -189,9 +208,6 @@
     "Math 1740/Helpful notes/Cramers Rule - Filled Out.pdf",
     "Math 1740/Helpful notes/Determinants - Filled Out.pdf",
     "Math 1740/Helpful notes/Domain without a Graph - FILLED OUT.pdf",
-    "Math 1740/Helpful notes/exponential_rules.pdf",
-    "Math 1740/Helpful notes/factoring_rules.pdf",
-    "Math 1740/Helpful notes/Function.Notation.DomainRange - FILLED OUT - 2.pdf",
-    "Math 1740/Helpful notes/Graphs to Know - Filledc Out.pdf"
+    "Math 1740/Helpful notes/exponential_rules.pdf"
   ]
 }
