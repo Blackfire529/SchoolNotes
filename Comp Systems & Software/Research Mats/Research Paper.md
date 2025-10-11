@@ -1,3 +1,6 @@
+
+![[Tech Report Format (rev 012622).pdf]]
+
 # Personal computers - costs, purchase or build your own
 
 ### Sections:
