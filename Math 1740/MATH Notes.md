@@ -254,6 +254,7 @@ $gof(x) = g(f(x))$
 ![[Pasted image 20250927105421.png]]
 ![[Pasted image 20250927105559.png]]
 ![[Pasted image 20250929104535.png]]
+![[Pasted image 20251011082641.png]]
 # Periodic Function/ Exact Value
 ![[Pasted image 20250927174240.png]]
 
@@ -296,5 +297,13 @@ $gof(x) = g(f(x))$
 # Right Triangle
 ![[Right Triangle- Filled Out2.pdf#page=2&rect=106,207,524,526|Right Triangle- Filled Out2, p.2]]
 
+![[Pasted image 20251011094630.png]]
+![[Pasted image 20251011100517.png]]
+# Cofunction Identities
+![[Pasted image 20251011084705.png]]
+
+![[Pasted image 20251011084901.png]]
+
+![[Pasted image 20251011092246.png]]
 
 # Bottom
