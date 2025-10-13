@@ -25,12 +25,14 @@
             "id": "6ef67279c1d284a3",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.9.14"
+                "file": "College Path/Fall 2025.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.14"
+              "icon": "lucide-file",
+              "title": "Fall 2025"
             }
           }
         ],
@@ -182,13 +184,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "49ffc2ea4b0ac0e3",
+  "active": "6ef67279c1d284a3",
   "lastOpenFiles": [
+    "College Path/Detail Schedule.md",
+    "Comp Systems & Software/Research Mats/PowerPoint/PowerPoint instructions (2017F).pdf",
+    "Comp Systems & Software/Research Mats/PowerPoint/Oral Pres Rubric.pdf",
+    "Comp Systems & Software/Research Mats/Research Paper.md",
+    "Comp Systems & Software/Research Mats/Abstract/How to Write an Abstract (2017F).pdf",
+    "Comp Systems & Software/Research Mats/Abstract/Abstract Example.pdf",
+    "Comp Systems & Software/Research Mats/Abstract/Abstract.md",
     "College Path/imgs/Student Detail Schedule Fall 2025.pdf",
     "College Path/imgs/Program_ Computer Engineering Technology, A.A.S. - Southwest Tennessee Community College - Modern Campus Catalog™.pdf",
     "College Path/imgs",
     "College Path/Fall 2025.md",
-    "College Path/Detail Schedule.md",
     "College Path",
     "Math 1740/Unit+Circle+with+Negative+Angles.pdf",
     "Math 1740/MATH Notes.md",
@@ -203,11 +211,6 @@
     "Math 1740/imgs/Pasted image 20250928103817.png",
     "Math 1740/imgs/Pasted image 20250928103739.png",
     "Math 1740/imgs/Pasted image 20250926124230.png",
-    "Math 1740/imgs/Pasted image 20250926140658.png",
-    "Math 1740/Helpful notes/Coterminal - Filled Out.pdf",
-    "Math 1740/Helpful notes/Cramers Rule - Filled Out.pdf",
-    "Math 1740/Helpful notes/Determinants - Filled Out.pdf",
-    "Math 1740/Helpful notes/Domain without a Graph - FILLED OUT.pdf",
-    "Math 1740/Helpful notes/exponential_rules.pdf"
+    "Math 1740/imgs/Pasted image 20250926140658.png"
   ]
 }
