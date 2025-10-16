@@ -204,10 +204,11 @@ $gof(x) = g(f(x))$
 ![[Pasted image 20250925142651.png]]![[Pasted image 20250925143152.png]]
 
 ![[Pasted image 20250925143321.png]]
-6## Degrees & Radians Conversion
+## Degrees & Radians Conversion
 ![[Pasted image 20250925144653.png]]
 ![[Pasted image 20250925151051.png]]
 ![[Pasted image 20250925151117.png]]
+![[Pasted image 20251014062127.png]]
 
 ## Degree Minute Second
 ![[Pasted image 20250925150004.png]]
@@ -253,6 +254,11 @@ $gof(x) = g(f(x))$
 ![[Pasted image 20250927105305.png]]
 ![[Pasted image 20250927105421.png]]
 ![[Pasted image 20250927105559.png]]
+![[Pasted image 20251014054417.png]]
+![[Pasted image 20251014073319.png]]
+
+![[Pasted image 20251014055115.png]]
+
 ![[Pasted image 20250929104535.png]]
 ![[Pasted image 20251011082641.png]]
 # Periodic Function/ Exact Value
@@ -295,6 +301,11 @@ $gof(x) = g(f(x))$
 ![[Pasted image 20250929100200.png]]
 
 # Right Triangle
+![[Pasted image 20251014055858.png]]
+![[Pasted image 20251014055925.png]]
+![[Pasted image 20251014060023.png]]
+
+
 ![[Right Triangle- Filled Out2.pdf#page=2&rect=106,207,524,526|Right Triangle- Filled Out2, p.2]]
 
 ![[Pasted image 20251011094630.png]]
@@ -303,6 +314,7 @@ $gof(x) = g(f(x))$
 ![[Pasted image 20251011084705.png]]
 
 ![[Pasted image 20251011084901.png]]
+![[Pasted image 20251014071245.png]]
 
 ![[Pasted image 20251011092246.png]]
 
