@@ -25,14 +25,12 @@
             "id": "6ef67279c1d284a3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "College Path/Fall 2025.md",
-                "mode": "source",
-                "source": false
+                "file": "Comp Systems & Software/Research Mats/Tech Report Format (rev 012622).pdf"
               },
-              "icon": "lucide-file",
-              "title": "Fall 2025"
+              "icon": "lucide-file-text",
+              "title": "Tech Report Format (rev 012622)"
             }
           }
         ],
@@ -186,6 +184,7 @@
   },
   "active": "6ef67279c1d284a3",
   "lastOpenFiles": [
+    "College Path/Fall 2025.md",
     "College Path/Detail Schedule.md",
     "Comp Systems & Software/Research Mats/PowerPoint/PowerPoint instructions (2017F).pdf",
     "Comp Systems & Software/Research Mats/PowerPoint/Oral Pres Rubric.pdf",
@@ -196,7 +195,6 @@
     "College Path/imgs/Student Detail Schedule Fall 2025.pdf",
     "College Path/imgs/Program_ Computer Engineering Technology, A.A.S. - Southwest Tennessee Community College - Modern Campus Catalog™.pdf",
     "College Path/imgs",
-    "College Path/Fall 2025.md",
     "College Path",
     "Math 1740/Unit+Circle+with+Negative+Angles.pdf",
     "Math 1740/MATH Notes.md",
