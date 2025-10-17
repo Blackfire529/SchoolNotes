@@ -27,14 +27,13 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Comp Systems & Software/Research Mats/Tech Report Format (rev 012622).pdf"
+                "file": "Math 1740/Unit+Circle+with+Negative+Angles.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Tech Report Format (rev 012622)"
+              "title": "Unit+Circle+with+Negative+Angles"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,8 +181,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "6ef67279c1d284a3",
+  "active": "a5b628355a84cb88",
   "lastOpenFiles": [
+    "Pasted image 20251016195442.png",
+    "Pasted image 20251016191416.png",
+    "Pasted image 20251016185548.png",
+    "Math 1740/Unit+Circle+with+Negative+Angles.pdf",
+    "Math 1740/imgs/Pasted image 20251016150239.png",
+    "Math 1740/MATH Notes.md",
+    "Math 1740/imgs/Pasted image 20251016152921.png",
+    "Math 1740/imgs/Pasted image 20251016151903.png",
+    "Math 1740/imgs/Pasted image 20251016151419.png",
+    "Math 1740/Helpful notes/Trig Quadrants - Filled Out.pdf",
+    "Comp Systems & Software/Research Mats/Tech Report Format (rev 012622).pdf",
     "College Path/Fall 2025.md",
     "College Path/Detail Schedule.md",
     "Comp Systems & Software/Research Mats/PowerPoint/PowerPoint instructions (2017F).pdf",
@@ -195,20 +205,10 @@
     "College Path/imgs/Student Detail Schedule Fall 2025.pdf",
     "College Path/imgs/Program_ Computer Engineering Technology, A.A.S. - Southwest Tennessee Community College - Modern Campus Catalog™.pdf",
     "College Path/imgs",
-    "College Path",
-    "Math 1740/Unit+Circle+with+Negative+Angles.pdf",
-    "Math 1740/MATH Notes.md",
     "Fall 2025.md",
     "Math 1740/imgs/Pasted image 20250929095933.png",
     "Math 1740/imgs/Pasted image 20250929104535.png",
     "Math 1740/imgs/Pasted image 20250929100200.png",
-    "Math 1740/imgs/Pasted image 20250928111213.png",
-    "Math 1740/imgs/Pasted image 20250928112436.png",
-    "QCE MM TRB for CX II-T 2025.pdf",
-    "Math 1740/imgs/Pasted image 20250928105053.png",
-    "Math 1740/imgs/Pasted image 20250928103817.png",
-    "Math 1740/imgs/Pasted image 20250928103739.png",
-    "Math 1740/imgs/Pasted image 20250926124230.png",
-    "Math 1740/imgs/Pasted image 20250926140658.png"
+    "Math 1740/imgs/Pasted image 20250928111213.png"
   ]
 }

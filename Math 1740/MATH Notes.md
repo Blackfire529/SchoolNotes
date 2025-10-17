@@ -308,6 +308,9 @@ $gof(x) = g(f(x))$
 
 ![[Right Triangle- Filled Out2.pdf#page=2&rect=106,207,524,526|Right Triangle- Filled Out2, p.2]]
 
+![[Pasted image 20251016150239.png]]
+
+
 ![[Pasted image 20251011094630.png]]
 ![[Pasted image 20251011100517.png]]
 # Cofunction Identities
@@ -317,5 +320,19 @@ $gof(x) = g(f(x))$
 ![[Pasted image 20251014071245.png]]
 
 ![[Pasted image 20251011092246.png]]
+
+# Definitions of Trigonometric Functions of Any Angle
+![[Pasted image 20251016151419.png]]
+
+![[Pasted image 20251016151903.png]]
+
+![[Pasted image 20251016152921.png]]
+
+![[Pasted image 20251016185548.png]]
+![[Pasted image 20251016191416.png]]
+
+![[Pasted image 20251016195442.png]]
+
+
 
 # Bottom
