@@ -333,6 +333,14 @@ $gof(x) = g(f(x))$
 
 ![[Pasted image 20251016195442.png]]
 
+# Reference Angle
+![[Pasted image 20251017171940.png]]
+
+![[Pasted image 20251017174606.png]]
+![[Pasted image 20251017180304.png]]
+
+![[Pasted image 20251017180408.png]]
+
 
 
 # Bottom

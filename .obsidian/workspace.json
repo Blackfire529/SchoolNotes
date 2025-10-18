@@ -86,11 +86,13 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "64734905ee3febd5",
@@ -183,12 +185,16 @@
   },
   "active": "a5b628355a84cb88",
   "lastOpenFiles": [
+    "Pasted image 20251017180408.png",
+    "Pasted image 20251017180304.png",
+    "Math 1740/Unit+Circle+with+Negative+Angles.pdf",
+    "Math 1740/MATH Notes.md",
+    "Pasted image 20251017174606.png",
+    "Pasted image 20251017171940.png",
     "Pasted image 20251016195442.png",
     "Pasted image 20251016191416.png",
     "Pasted image 20251016185548.png",
-    "Math 1740/Unit+Circle+with+Negative+Angles.pdf",
     "Math 1740/imgs/Pasted image 20251016150239.png",
-    "Math 1740/MATH Notes.md",
     "Math 1740/imgs/Pasted image 20251016152921.png",
     "Math 1740/imgs/Pasted image 20251016151903.png",
     "Math 1740/imgs/Pasted image 20251016151419.png",
@@ -205,10 +211,6 @@
     "College Path/imgs/Student Detail Schedule Fall 2025.pdf",
     "College Path/imgs/Program_ Computer Engineering Technology, A.A.S. - Southwest Tennessee Community College - Modern Campus Catalog™.pdf",
     "College Path/imgs",
-    "Fall 2025.md",
-    "Math 1740/imgs/Pasted image 20250929095933.png",
-    "Math 1740/imgs/Pasted image 20250929104535.png",
-    "Math 1740/imgs/Pasted image 20250929100200.png",
-    "Math 1740/imgs/Pasted image 20250928111213.png"
+    "Fall 2025.md"
   ]
 }
