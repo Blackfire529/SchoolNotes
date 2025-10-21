@@ -344,6 +344,7 @@ $gof(x) = g(f(x))$
 ![[Pasted image 20251018094405.png]]
 
 ![[Pasted image 20251018094537.png]]
+![[Pasted image 20251021053846.png]]
 
 # Simplifying Square Roots
 ![[Pasted image 20251019082803.png]]

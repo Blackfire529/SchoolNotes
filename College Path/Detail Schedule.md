@@ -2,6 +2,8 @@
 ![[Student Detail Schedule Fall 2025.pdf]]
 
 # Spring 2026
+
+![[Student Detail Schedule 1.pdf]]
 - ## ENTC 1114 Introduction to Electric/Electronic Technology
 - ## ENTC 1124 Engineering Technology Techniques
 - ## MATH 1750 Algebra and Trigonometry II
