@@ -11,12 +11,14 @@
             "id": "a5b628355a84cb88",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Math 1740/imgs/Pasted image 20251022133435.png"
+                "file": "Math 1740/MATH Notes.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20251022133435"
+              "icon": "lucide-file",
+              "title": "MATH Notes"
             }
           },
           {
@@ -105,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math 1740/imgs/Pasted image 20251022133435.png",
+                "file": "Math 1740/MATH Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +117,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Pasted image 20251022133435"
+              "title": "Backlinks for MATH Notes"
             }
           },
           {
@@ -124,12 +126,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math 1740/imgs/Pasted image 20251022133435.png",
+                "file": "Math 1740/MATH Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Pasted image 20251022133435"
+              "title": "Outgoing links from MATH Notes"
             }
           },
           {
@@ -153,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math 1740/imgs/Pasted image 20251022133435.png",
+                "file": "Math 1740/MATH Notes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Pasted image 20251022133435"
+              "title": "Outline of MATH Notes"
             }
           }
         ],
@@ -183,6 +185,7 @@
   },
   "active": "49ffc2ea4b0ac0e3",
   "lastOpenFiles": [
+    "Math 1740/imgs/Pasted image 20251022133435.png",
     "Math 1740/imgs/Pasted image 20251021053846.png",
     "College Path/imgs/Student Detail Schedule 1.pdf",
     "Math 1740/MATH Notes.md",
@@ -192,7 +195,6 @@
     "Math 1740/imgs/Pasted image 20251022134254.png",
     "Math 1740/imgs/Pasted image 20251022134128.png",
     "Math 1740/imgs/Pasted image 20251022133922.png",
-    "Math 1740/imgs/Pasted image 20251022133435.png",
     "Math 1740/Helpful notes/Graph Tangent- Filled Out.pdf",
     "Math 1740/Helpful notes/Graph Cosine - Filled Out.pdf",
     "Math 1740/Helpful notes/Graph Sine - Filled Out.pdf",
