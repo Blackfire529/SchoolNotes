@@ -11,14 +11,12 @@
             "id": "a5b628355a84cb88",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Math 1740/MATH Notes.md",
-                "mode": "source",
-                "source": false
+                "file": "Math 1740/imgs/Pasted image 20251022133435.png"
               },
-              "icon": "lucide-file",
-              "title": "MATH Notes"
+              "icon": "lucide-image",
+              "title": "Pasted image 20251022133435"
             }
           },
           {
@@ -47,19 +45,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "49ffc2ea4b0ac0e3",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
-          {
             "id": "27079c18c3dc46d6",
             "type": "leaf",
             "state": {
@@ -77,6 +62,19 @@
             }
           },
           {
+            "id": "49ffc2ea4b0ac0e3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
             "id": "29398c2003337fcd",
             "type": "leaf",
             "state": {
@@ -87,12 +85,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "64734905ee3febd5",
@@ -108,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math 1740/0 MATH Notes.md",
+                "file": "Math 1740/imgs/Pasted image 20251022133435.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 0 MATH Notes"
+              "title": "Backlinks for Pasted image 20251022133435"
             }
           },
           {
@@ -127,12 +124,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math 1740/0 MATH Notes.md",
+                "file": "Math 1740/imgs/Pasted image 20251022133435.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 0 MATH Notes"
+              "title": "Outgoing links from Pasted image 20251022133435"
             }
           },
           {
@@ -156,16 +153,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math 1740/0 MATH Notes.md",
+                "file": "Math 1740/imgs/Pasted image 20251022133435.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 0 MATH Notes"
+              "title": "Outline of Pasted image 20251022133435"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -183,32 +181,33 @@
       "bases:Create new base": false
     }
   },
-  "active": "a5b628355a84cb88",
+  "active": "49ffc2ea4b0ac0e3",
   "lastOpenFiles": [
-    "Math 1740/Unit+Circle+with+Negative+Angles.pdf",
+    "Math 1740/imgs/Pasted image 20251021053846.png",
+    "College Path/imgs/Student Detail Schedule 1.pdf",
     "Math 1740/MATH Notes.md",
+    "Math 1740/imgs/Pasted image 20251022135424.png",
+    "Math 1740/imgs/Pasted image 20251022135304.png",
+    "Math 1740/imgs/Pasted image 20251022134740.png",
+    "Math 1740/imgs/Pasted image 20251022134254.png",
+    "Math 1740/imgs/Pasted image 20251022134128.png",
+    "Math 1740/imgs/Pasted image 20251022133922.png",
+    "Math 1740/imgs/Pasted image 20251022133435.png",
+    "Math 1740/Helpful notes/Graph Tangent- Filled Out.pdf",
+    "Math 1740/Helpful notes/Graph Cosine - Filled Out.pdf",
+    "Math 1740/Helpful notes/Graph Sine - Filled Out.pdf",
+    "College Path/Fall 2025.md",
+    "College Path/imgs/Weekly.Schedule.CENT-1310-1H1-2025F (1).pdf",
+    "College Path/Detail Schedule.md",
+    "Math 1740/Unit+Circle+with+Negative+Angles.pdf",
     "Math 1740/imgs/Pasted image 20251019082803.png",
     "Math 1740/imgs/Pasted image 20251018094537.png",
     "Math 1740/imgs/Pasted image 20251018094405.png",
-    "Math 1740/imgs/Pasted image 20251017180408.png",
-    "Math 1740/imgs/Pasted image 20251017180304.png",
-    "Math 1740/imgs/Pasted image 20251017174606.png",
-    "Math 1740/imgs/Pasted image 20251017171940.png",
-    "Math 1740/imgs/Pasted image 20251016195442.png",
-    "Math 1740/imgs/Pasted image 20251016191416.png",
-    "Math 1740/imgs/Pasted image 20251016185548.png",
     "Math 1740/FactSheets/Useful Fact Sheet Module 3.pdf",
     "Math 1740/FactSheets/Useful Fact Sheet Module 2.pdf",
     "Math 1740/FactSheets/Useful Fact Sheet Module 1.pdf",
     "Math 1740/FactSheets",
-    "Math 1740/Helpful notes/Trig Quadrants - Filled Out.pdf",
-    "Comp Systems & Software/Research Mats/Tech Report Format (rev 012622).pdf",
-    "College Path/Fall 2025.md",
-    "College Path/Detail Schedule.md",
-    "Comp Systems & Software/Research Mats/PowerPoint/PowerPoint instructions (2017F).pdf",
-    "Comp Systems & Software/Research Mats/PowerPoint/Oral Pres Rubric.pdf",
     "Comp Systems & Software/Research Mats/Research Paper.md",
-    "Comp Systems & Software/Research Mats/Abstract/How to Write an Abstract (2017F).pdf",
     "Comp Systems & Software/Research Mats/Abstract/Abstract.md",
     "Fall 2025.md"
   ]

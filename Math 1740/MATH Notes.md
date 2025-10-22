@@ -347,5 +347,26 @@ $gof(x) = g(f(x))$
 ![[Pasted image 20251021053846.png]]
 
 # Simplifying Square Roots
+
 ![[Pasted image 20251019082803.png]]
+
+![[Pasted image 20251022133435.png]]
+
+# Graphing Variations of y= sin x
+![[Pasted image 20251022133922.png]]
+![[Pasted image 20251022134128.png]]
+
+# Amplitudes and Periods
+![[Pasted image 20251022134254.png]]
+
+![[Pasted image 20251022134740.png]]
+
+# The Graph of y = A sin(Bx —C)
+![[Pasted image 20251022135304.png]]
+
+![[Pasted image 20251022135424.png]]
+
+
+
+
 # Bottom
