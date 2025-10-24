@@ -368,6 +368,8 @@ $gof(x) = g(f(x))$
 ![[Pasted image 20251022135304.png]]
 
 ![[Pasted image 20251022135424.png]]
+![[Pasted image 20251023143108.png]]
+
 
 # The Graph of y = A cos Bx
 ![[Pasted image 20251023063224.png]]
