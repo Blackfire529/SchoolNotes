@@ -350,7 +350,10 @@ $gof(x) = g(f(x))$
 
 ![[Pasted image 20251019082803.png]]
 
+# Values Of (x, y) on the Graph
 ![[Pasted image 20251022133435.png]]
+![[Pasted image 20251023062802.png]]
+![[Pasted image 20251024104933.png]]
 
 # Graphing Variations of y= sin x
 ![[Pasted image 20251022133922.png]]
@@ -367,6 +370,30 @@ $gof(x) = g(f(x))$
 ![[Pasted image 20251022135424.png]]
 ![[Pasted image 20251023143108.png]]
 
+
+# The Graph of y = A cos Bx
+![[Pasted image 20251023063224.png]]
+
+# The Graph of y = A cos (Bx - C)
+![[Pasted image 20251023063553.png]]
+
+![[Pasted image 20251023063726.png]]
+
+![[Pasted image 20251023064322.png]]
+
+![[Pasted image 20251024102048.png]]
+
+![[Pasted image 20251024104218.png]]
+
+# The Graph of y = tan x
+![[Pasted image 20251024105729.png]]
+
+![[Pasted image 20251024105552.png]]
+
+![[Pasted image 20251024110011.png]]
+
+![[Pasted image 20251024110213.png]]
+![[Pasted image 20251024110426.png]]
 
 
 
