@@ -353,6 +353,7 @@ $gof(x) = g(f(x))$
 # Values Of (x, y) on the Graph
 ![[Pasted image 20251022133435.png]]
 ![[Pasted image 20251023062802.png]]
+![[Pasted image 20251024104933.png]]
 
 # Graphing Variations of y= sin x
 ![[Pasted image 20251022133922.png]]
@@ -377,6 +378,12 @@ $gof(x) = g(f(x))$
 ![[Pasted image 20251023063726.png]]
 
 ![[Pasted image 20251023064322.png]]
+
+![[Pasted image 20251024102048.png]]
+
+![[Pasted image 20251024104218.png]]
+
+
 
 
 # Bottom
