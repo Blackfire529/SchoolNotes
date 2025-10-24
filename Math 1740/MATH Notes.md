@@ -383,6 +383,16 @@ $gof(x) = g(f(x))$
 
 ![[Pasted image 20251024104218.png]]
 
+# The Graph of y = tan x
+![[Pasted image 20251024105729.png]]
+
+![[Pasted image 20251024105552.png]]
+
+![[Pasted image 20251024110011.png]]
+
+![[Pasted image 20251024110213.png]]
+![[Pasted image 20251024110426.png]]
+
 
 
 
