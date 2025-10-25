@@ -395,11 +395,20 @@ $gof(x) = g(f(x))$
 ![[Pasted image 20251024110213.png]]
 ![[Pasted image 20251024110426.png]]
 
+# Graphing y = A cot(Bx— C), B > 0
 ![[Pasted image 20251024141603.png]]
 
 ![[Pasted image 20251024142903.png]]
 
+# The Graph of y= cscx
 ![[Pasted image 20251024144553.png]]
+
+![[Pasted image 20251025082100.png]]
+
+# The Graph of y = secx
+![[Pasted image 20251025082158.png]]
+
+![[Pasted image 20251025082236.png]]
 
 
 
