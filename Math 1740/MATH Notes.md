@@ -410,6 +410,20 @@ $gof(x) = g(f(x))$
 
 ![[Pasted image 20251025082236.png]]
 
+# The Inverse Cosine Function
+![[Pasted image 20251025094743.png]]
+![[Pasted image 20251025094835.png]]
+
+# The Inverse Sine Function
+![[Pasted image 20251025095246.png]]
+![[Pasted image 20251025095455.png]]
+
+# The Inverse Tangent Function
+![[Pasted image 20251025095638.png]]
+![[Pasted image 20251025095715.png]]
+
+# Inverse Properties
+![[Pasted image 20251025100743.png]]
 
 
 
