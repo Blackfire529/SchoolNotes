@@ -129,6 +129,41 @@
           "path": "Math 1740/MATH Notes.md",
           "subpath": "#Graphing Variations of y= sin x",
           "title": "Graphing Variations of y= sin x"
+        },
+        {
+          "type": "file",
+          "ctime": 1761328595596,
+          "path": "Math 1740/MATH Notes.md",
+          "subpath": "#Amplitudes and Periods",
+          "title": "Amplitudes and Periods"
+        },
+        {
+          "type": "file",
+          "ctime": 1761328602018,
+          "path": "Math 1740/MATH Notes.md",
+          "subpath": "#The Graph of y = A sin(Bx —C)",
+          "title": "The Graph of y = A sin(Bx —C)"
+        },
+        {
+          "type": "file",
+          "ctime": 1761328608218,
+          "path": "Math 1740/MATH Notes.md",
+          "subpath": "#The Graph of y = A cos Bx",
+          "title": "The Graph of y = A cos Bx"
+        },
+        {
+          "type": "file",
+          "ctime": 1761328615288,
+          "path": "Math 1740/MATH Notes.md",
+          "subpath": "#The Graph of y = A cos (Bx - C)",
+          "title": "The Graph of y = A cos (Bx - C)"
+        },
+        {
+          "type": "file",
+          "ctime": 1761328722688,
+          "path": "Math 1740/MATH Notes.md",
+          "subpath": "#The Graph of y = tan x",
+          "title": "The Graph of y = tan x"
         }
       ],
       "title": "math"
