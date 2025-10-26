@@ -164,6 +164,55 @@
           "path": "Math 1740/MATH Notes.md",
           "subpath": "#The Graph of y = tan x",
           "title": "The Graph of y = tan x"
+        },
+        {
+          "type": "file",
+          "ctime": 1761488971116,
+          "path": "Math 1740/MATH Notes.md",
+          "subpath": "#Graphing y = A cot(Bx— C), B > 0",
+          "title": "Graphing y = A cot(Bx— C), B > 0"
+        },
+        {
+          "type": "file",
+          "ctime": 1761488978008,
+          "path": "Math 1740/MATH Notes.md",
+          "subpath": "#The Graph of y= cscx",
+          "title": "The Graph of y= cscx"
+        },
+        {
+          "type": "file",
+          "ctime": 1761488986025,
+          "path": "Math 1740/MATH Notes.md",
+          "subpath": "#The Graph of y = secx",
+          "title": "The Graph of y = secx"
+        },
+        {
+          "type": "file",
+          "ctime": 1761488992491,
+          "path": "Math 1740/MATH Notes.md",
+          "subpath": "#The Inverse Cosine Function",
+          "title": "The Inverse Cosine Function"
+        },
+        {
+          "type": "file",
+          "ctime": 1761488998561,
+          "path": "Math 1740/MATH Notes.md",
+          "subpath": "#The Inverse Sine Function",
+          "title": "The Inverse Sine Function"
+        },
+        {
+          "type": "file",
+          "ctime": 1761489004997,
+          "path": "Math 1740/MATH Notes.md",
+          "subpath": "#The Inverse Tangent Function",
+          "title": "The Inverse Tangent Function"
+        },
+        {
+          "type": "file",
+          "ctime": 1761489010747,
+          "path": "Math 1740/MATH Notes.md",
+          "subpath": "#Inverse Properties",
+          "title": "Inverse Properties"
         }
       ],
       "title": "math"

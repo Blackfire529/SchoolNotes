@@ -425,6 +425,9 @@ $gof(x) = g(f(x))$
 # Inverse Properties
 ![[Pasted image 20251025100743.png]]
 
+![[Pasted image 20251026093040.png]]
+
+
 
 
 # Bottom
