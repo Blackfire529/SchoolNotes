@@ -427,4 +427,10 @@ $gof(x) = g(f(x))$
 
 ![[Pasted image 20251025160650.png]]
 
+![[Pasted image 20251026181335.png]]
+
+
+
+
+
 # Bottom
