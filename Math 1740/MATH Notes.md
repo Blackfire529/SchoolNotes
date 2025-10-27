@@ -429,6 +429,19 @@ $gof(x) = g(f(x))$
 
 ![[Pasted image 20251026181335.png]]
 
+![[Pasted image 20251027093655.png]]
+![[Pasted image 20251027093814.png]]
+
+# Simple Harmonic Motion
+![[Pasted image 20251027102214.png]]
+
+# Frequency of an Object in Simple Harmonic Motion
+![[Pasted image 20251027102520.png]]
+
+![[Pasted image 20251027104604.png]]
+
+
+
 
 
 
