@@ -11,12 +11,14 @@
             "id": "a5b628355a84cb88",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Math 1740/imgs/Pasted image 20251027093655.png"
+                "file": "College Path/Detail Schedule.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20251027093655"
+              "icon": "lucide-file",
+              "title": "Detail Schedule"
             }
           },
           {
@@ -181,31 +183,31 @@
       "bases:Create new base": false
     }
   },
-  "active": "49ffc2ea4b0ac0e3",
+  "active": "a5b628355a84cb88",
   "lastOpenFiles": [
+    "College Path/Fall 2025.md",
+    "College Path/Detail Schedule.md",
     "Math 1740/MATH Notes.md",
+    "Math 1740/Unit+Circle+with+Negative+Angles.pdf",
+    "Math 1740/FactSheets/Useful Fact Sheet Module 3.pdf",
+    "Math 1740/FactSheets/Useful Fact Sheet Module 3 1.pdf",
+    "Useful Fact Sheet Module 3.docx",
+    "Math 1740/FactSheets/Useful Fact Sheet Module 3.docx",
+    "Math 1740/Helpful notes/Useful Fact Sheet Module 3.docx",
+    "Math 1740/imgs/Pasted image 20251027093655.png",
     "Math 1740/imgs/Pasted image 20251027104604.png",
     "Math 1740/imgs/Pasted image 20251027102520.png",
     "Math 1740/imgs/Pasted image 20251027102214.png",
     "Math 1740/imgs/Pasted image 20251027093814.png",
-    "Math 1740/imgs/Pasted image 20251027093655.png",
     "Math 1740/imgs/Pasted image 20251026093040.png",
     "Math 1740/imgs/Pasted image 20251025100743.png",
     "Math 1740/imgs/Pasted image 20251025095715.png",
     "Math 1740/imgs/Pasted image 20251025095638.png",
     "Math 1740/imgs/Pasted image 20251025095455.png",
-    "Math 1740/Unit+Circle+with+Negative+Angles.pdf",
     "Math 1740/FactSheets/TI-Nspire_CXII-HH_Guidebook_EN.pdf",
     "Math 1740/FactSheets/QCE MM TRB for CX II-T 2025.pdf",
     "College Path/imgs/Student Detail Schedule 1.pdf",
     "Math 1740/Helpful notes/Graph Tangent- Filled Out.pdf",
-    "Math 1740/Helpful notes/Graph Cosine - Filled Out.pdf",
-    "Math 1740/Helpful notes/Graph Sine - Filled Out.pdf",
-    "College Path/Fall 2025.md",
-    "College Path/imgs/Weekly.Schedule.CENT-1310-1H1-2025F (1).pdf",
-    "College Path/Detail Schedule.md",
-    "Math 1740/FactSheets/Useful Fact Sheet Module 3.pdf",
-    "Math 1740/FactSheets/Useful Fact Sheet Module 2.pdf",
     "Comp Systems & Software/Research Mats/Research Paper.md",
     "Comp Systems & Software/Research Mats/Abstract/Abstract.md",
     "Fall 2025.md"
