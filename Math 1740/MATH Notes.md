@@ -60,6 +60,7 @@ sqrRoot(x) * sqrRoot(y) = sqrRoot(x) sqrRoot(y)
 
 ![[Pasted image 20250911072649.png]]
 
+# FOIL
 ![[Pasted image 20250911075945.png]]
 
 ![[Pasted image 20250911171359.png]]
@@ -441,6 +442,17 @@ $gof(x) = g(f(x))$
 ![[Pasted image 20251027102520.png]]
 
 ![[Pasted image 20251027104604.png]]
+# Fundamental Trigonometric Identities
+![[Pasted image 20251105112002.png]]
+
+![[Pasted image 20251105112058.png]]
+![[Pasted image 20251105112213.png]]
+
+# Guidelines for Verifying Trigonometric Identities
+![[Pasted image 20251105112403.png]]
+![[Pasted image 20251105112427.png]]
+![[Pasted image 20251105112506.png]]
+
 
 
 

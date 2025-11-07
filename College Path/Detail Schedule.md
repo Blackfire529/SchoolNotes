@@ -1,3 +1,7 @@
+## Username: cmcdonald5@southwest.tn.edu
+## Student ID: 01732897
+
+---
 # Fall 2025
 ![[Student Detail Schedule Fall 2025.pdf]]
 
@@ -8,6 +12,7 @@
 - ## ENTC 1124 Engineering Technology Techniques
 - ## MATH 1750 Algebra and Trigonometry II
 - ## CENT 1320 Programming for Technicians
+![[Pasted image 20251106055646.png]]
 
 # [Degree Path](https://catalog.southwest.tn.edu/preview_program.php?catoid=41&poid=5187)
 ![[Program_ Computer Engineering Technology, A.A.S. - Southwest Tennessee Community College - Modern Campus Catalog™.pdf]]
