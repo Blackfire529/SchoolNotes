@@ -27,7 +27,9 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Math 1740/Unit+Circle+with+Negative+Angles.pdf"
+                "file": "Math 1740/Unit+Circle+with+Negative+Angles.pdf",
+                "page": 1,
+                "zoom": 1
               },
               "icon": "lucide-file-text",
               "title": "Unit+Circle+with+Negative+Angles"
@@ -87,7 +89,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -164,12 +166,11 @@
               "title": "Outline of MATH Notes"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -180,11 +181,23 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "pomodoro-timer:Toggle timer panel": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
   "active": "a5b628355a84cb88",
   "lastOpenFiles": [
+    "Math 1740/Helpful notes/factoring_rules.pdf",
+    "Math 1740/Helpful notes/exponential_rules.pdf",
+    "Math 1740/MATH Notes.md",
+    "Math 1740/Helpful notes/Algebra of Functions - Filled Out.pdf",
+    "Math 1740/imgs/Pasted image 20251107102647.png",
+    "Math 1740/Unit+Circle+with+Negative+Angles.pdf",
+    "Untitled.canvas",
+    "Untitled.md",
     "Math 1740/imgs/Pasted image 20251105112506.png",
     "Math 1740/imgs/Pasted image 20251105112427.png",
     "Math 1740/imgs/Pasted image 20251105112403.png",
@@ -198,17 +211,10 @@
     "Math 1740/imgs/Pasted image 20251028053221.png",
     "Comp Systems & Software/Research Mats/Personal computers - costs, purchase or build your own.docx",
     "College Path/Fall 2025.md",
-    "Math 1740/MATH Notes.md",
-    "Math 1740/Unit+Circle+with+Negative+Angles.pdf",
     "Math 1740/FactSheets/Useful Fact Sheet Module 3.pdf",
     "Math 1740/FactSheets/Useful Fact Sheet Module 3 1.pdf",
     "Useful Fact Sheet Module 3.docx",
-    "Math 1740/FactSheets/Useful Fact Sheet Module 3.docx",
-    "Math 1740/Helpful notes/Useful Fact Sheet Module 3.docx",
     "Math 1740/imgs/Pasted image 20251027093655.png",
-    "Math 1740/imgs/Pasted image 20251027104604.png",
-    "Math 1740/imgs/Pasted image 20251027102520.png",
-    "Math 1740/FactSheets/TI-Nspire_CXII-HH_Guidebook_EN.pdf",
     "Comp Systems & Software/Research Mats/Research Paper.md",
     "Comp Systems & Software/Research Mats/Abstract/Abstract.md",
     "Fall 2025.md"

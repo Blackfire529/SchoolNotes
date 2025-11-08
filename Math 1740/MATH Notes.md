@@ -444,14 +444,16 @@ $gof(x) = g(f(x))$
 ![[Pasted image 20251027104604.png]]
 # Fundamental Trigonometric Identities
 ![[Pasted image 20251105112002.png]]
+![[Pasted image 20251107102647.png|400x222]]
 
 ![[Pasted image 20251105112058.png]]
+
 ![[Pasted image 20251105112213.png]]
 
 # Guidelines for Verifying Trigonometric Identities
 ![[Pasted image 20251105112403.png]]
 ![[Pasted image 20251105112427.png]]
-![[Pasted image 20251105112506.png]]
+![[Pasted image 20251105112506.png|700x179]]
 
 
 
