@@ -455,6 +455,8 @@ $gof(x) = g(f(x))$
 ![[Pasted image 20251105112427.png]]
 ![[Pasted image 20251105112506.png|700x179]]
 
+![[Pasted image 20251108082329.png]]
+
 
 
 
