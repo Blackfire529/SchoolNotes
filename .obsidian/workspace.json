@@ -11,14 +11,12 @@
             "id": "a5b628355a84cb88",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "docx-view",
               "state": {
-                "file": "Math 1740/MATH Notes.md",
-                "mode": "source",
-                "source": false
+                "file": "Useful Fact Sheet Module 3.docx"
               },
               "icon": "lucide-file",
-              "title": "MATH Notes"
+              "title": "Useful Fact Sheet Module 3"
             }
           },
           {
@@ -190,9 +188,10 @@
   },
   "active": "a5b628355a84cb88",
   "lastOpenFiles": [
+    "Math 1740/imgs/Pasted image 20251108082329.png",
+    "Math 1740/MATH Notes.md",
     "Math 1740/Helpful notes/factoring_rules.pdf",
     "Math 1740/Helpful notes/exponential_rules.pdf",
-    "Math 1740/MATH Notes.md",
     "Math 1740/Helpful notes/Algebra of Functions - Filled Out.pdf",
     "Math 1740/imgs/Pasted image 20251107102647.png",
     "Math 1740/Unit+Circle+with+Negative+Angles.pdf",
