@@ -11,12 +11,14 @@
             "id": "a5b628355a84cb88",
             "type": "leaf",
             "state": {
-              "type": "docx-view",
+              "type": "markdown",
               "state": {
-                "file": "Useful Fact Sheet Module 3.docx"
+                "file": "Comp Systems & Software/Research Mats/Research Paper.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Useful Fact Sheet Module 3"
+              "title": "Research Paper"
             }
           },
           {
@@ -27,7 +29,9 @@
               "state": {
                 "file": "Math 1740/Unit+Circle+with+Negative+Angles.pdf",
                 "page": 1,
-                "zoom": 1
+                "left": -8,
+                "top": 796,
+                "zoom": 1.8676470588235294
               },
               "icon": "lucide-file-text",
               "title": "Unit+Circle+with+Negative+Angles"
@@ -188,13 +192,16 @@
   },
   "active": "a5b628355a84cb88",
   "lastOpenFiles": [
+    "Math 1740/Unit+Circle+with+Negative+Angles.pdf",
+    "Comp Systems & Software/Research Mats/Research Paper.md",
+    "Comp Systems & Software/Research Mats/Personal computers - costs, purchase or build your own.docx",
+    "Math 1740/FactSheets/Useful Fact Sheet Module 3 1.docx",
     "Math 1740/imgs/Pasted image 20251108082329.png",
     "Math 1740/MATH Notes.md",
     "Math 1740/Helpful notes/factoring_rules.pdf",
     "Math 1740/Helpful notes/exponential_rules.pdf",
     "Math 1740/Helpful notes/Algebra of Functions - Filled Out.pdf",
     "Math 1740/imgs/Pasted image 20251107102647.png",
-    "Math 1740/Unit+Circle+with+Negative+Angles.pdf",
     "Untitled.canvas",
     "Untitled.md",
     "Math 1740/imgs/Pasted image 20251105112506.png",
@@ -208,13 +215,9 @@
     "College Path/imgs/Pasted image 20251106055646.png",
     "College Path/Detail Schedule.md",
     "Math 1740/imgs/Pasted image 20251028053221.png",
-    "Comp Systems & Software/Research Mats/Personal computers - costs, purchase or build your own.docx",
     "College Path/Fall 2025.md",
     "Math 1740/FactSheets/Useful Fact Sheet Module 3.pdf",
     "Math 1740/FactSheets/Useful Fact Sheet Module 3 1.pdf",
-    "Useful Fact Sheet Module 3.docx",
-    "Math 1740/imgs/Pasted image 20251027093655.png",
-    "Comp Systems & Software/Research Mats/Research Paper.md",
     "Comp Systems & Software/Research Mats/Abstract/Abstract.md",
     "Fall 2025.md"
   ]
