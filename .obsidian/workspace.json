@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Comp Systems & Software/Research Mats/Research Paper.md",
+                "file": "College Path/Detail Schedule.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Research Paper"
+              "title": "Detail Schedule"
             }
           },
           {
@@ -36,8 +36,24 @@
               "icon": "lucide-file-text",
               "title": "Unit+Circle+with+Negative+Angles"
             }
+          },
+          {
+            "id": "a1fea1f95e835ec4",
+            "type": "leaf",
+            "dimension": 50,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "College Path/Fall 2025.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fall 2025"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -190,10 +206,12 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "a5b628355a84cb88",
+  "active": "a1fea1f95e835ec4",
   "lastOpenFiles": [
-    "Math 1740/Unit+Circle+with+Negative+Angles.pdf",
+    "College Path/imgs/Program_ Computer Engineering Technology, A.A.S. - Southwest Tennessee Community College - Modern Campus Catalog™.pdf",
+    "College Path/Detail Schedule.md",
     "Comp Systems & Software/Research Mats/Research Paper.md",
+    "Math 1740/Unit+Circle+with+Negative+Angles.pdf",
     "Comp Systems & Software/Research Mats/Personal computers - costs, purchase or build your own.docx",
     "Math 1740/FactSheets/Useful Fact Sheet Module 3 1.docx",
     "Math 1740/imgs/Pasted image 20251108082329.png",
@@ -213,7 +231,6 @@
     "Comp Systems & Software/Research Mats/~WRL0853.tmp",
     "Comp Systems & Software/Research Mats/~$rsonal computers - costs, purchase or build your own.docx",
     "College Path/imgs/Pasted image 20251106055646.png",
-    "College Path/Detail Schedule.md",
     "Math 1740/imgs/Pasted image 20251028053221.png",
     "College Path/Fall 2025.md",
     "Math 1740/FactSheets/Useful Fact Sheet Module 3.pdf",
