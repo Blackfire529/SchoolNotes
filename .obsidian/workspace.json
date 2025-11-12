@@ -40,16 +40,15 @@
           {
             "id": "a1fea1f95e835ec4",
             "type": "leaf",
-            "dimension": 50,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College Path/Fall 2025.md",
+                "file": "Comp Systems & Software/Research Mats/Research Paper.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fall 2025"
+              "title": "Research Paper"
             }
           }
         ],
@@ -208,6 +207,7 @@
   },
   "active": "a1fea1f95e835ec4",
   "lastOpenFiles": [
+    "College Path/Fall 2025.md",
     "College Path/imgs/Program_ Computer Engineering Technology, A.A.S. - Southwest Tennessee Community College - Modern Campus Catalog™.pdf",
     "College Path/Detail Schedule.md",
     "Comp Systems & Software/Research Mats/Research Paper.md",
@@ -232,9 +232,7 @@
     "Comp Systems & Software/Research Mats/~$rsonal computers - costs, purchase or build your own.docx",
     "College Path/imgs/Pasted image 20251106055646.png",
     "Math 1740/imgs/Pasted image 20251028053221.png",
-    "College Path/Fall 2025.md",
     "Math 1740/FactSheets/Useful Fact Sheet Module 3.pdf",
-    "Math 1740/FactSheets/Useful Fact Sheet Module 3 1.pdf",
     "Comp Systems & Software/Research Mats/Abstract/Abstract.md",
     "Fall 2025.md"
   ]
