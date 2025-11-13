@@ -59,14 +59,30 @@ Chapter Outline
 > [!PDF|yellow] [[Chapter 16- Therapy and Treatment.pdf#page=19&selection=65,0,94,94&color=yellow|Chapter 16- Therapy and Treatment, p.19]]
 > > Another biologically based treatment that continues to be used, although infrequently, is electroconvulsive therapy (ECT) (formerly known by its unscientific name as electroshock therapy). It involves using an electrical current to induce seizures to help alleviate the effects of severe depression. The exact mechanism is unknown, although it does help alleviate symptoms for people with severe depression who have not responded to traditional drug therapy (Pagnin, de Queiroz, Pini, & Cassano, 2004)
 
+> [!PDF|yellow] [[Chapter 16- Therapy and Treatment.pdf#page=21&selection=0,0,7,85&color=yellow|Chapter 16- Therapy and Treatment, p.21]]
+> > INDIVIDUAL THERAPY In individual therapy, also known as individual psychotherapy or individual counseling, the client and clinician meet one-on-one (usually from 45 minutes to 1 hour). These meetings typically occur weekly or every other week, and sessions are conducted in a confidential and caring environment
+> 
+> 
+
+> [!PDF|yellow] [[Chapter 16- Therapy and Treatment.pdf#page=21&selection=21,0,32,42&color=yellow|Chapter 16- Therapy and Treatment, p.21]]
+> > GROUP THERAPY In group therapy, a clinician meets together with several clients with similar problems (Figure 16.16). When children are placed in group therapy, it is particularly important to match clients for age and problems. One benefit of group therapy is that it can help decrease a client’s shame and isolation about a problem while offering needed support, both from the therapist and other members of the group (American Psychological Association, 2014)
+
+> [!PDF|yellow] [[Chapter 16- Therapy and Treatment.pdf#page=22&selection=30,0,39,5&color=yellow|Chapter 16- Therapy and Treatment, p.22]]
+> > COUPLES THERAPY Couples therapy involves two people in an intimate relationship who are having difficulties and are trying to resolve them (Figure 16.17). The couple may be dating, partnered, engaged, or married. The primary therapeutic orientation used in couples counseling is cognitive-behavioral therapy (Rathus & Sanderson, 1999)
+
+> [!PDF|yellow] [[Chapter 16- Therapy and Treatment.pdf#page=23&selection=11,0,18,98&color=yellow|Chapter 16- Therapy and Treatment, p.23]]
+> > FAMILY THERAPY Family therapy is a special form of group therapy, consisting of one or more families. Although there are many theoretical orientations in family therapy, one of the most predominant is the systems approach. The family is viewed as an organized system, and each individual within the family is a contributing member who creates and maintains processes within the system that shape behavior (Minuchin, 1985).
+
+> [!PDF|yellow] [[Chapter 16- Therapy and Treatment.pdf#page=24&selection=31,0,42,6&color=yellow|Chapter 16- Therapy and Treatment, p.24]]
+> > Addiction is often viewed as a chronic disease (Figure 16.18). The choice to use a substance is initially voluntary; however, because chronic substance use can permanently alter the neural structure in the prefrontal cortex, an area of the brain associated with decision-making and judgment, a person becomes driven to use drugs and/or alcohol (Muñoz-Cuevas, Athilingam, Piscopo, & Wilbrecht, 2013). This helps explain why relapse rates tend to be high. About 40%–60% of individuals relapse, which means they return to abusing drugs and/or alcohol after a period of improvement (National Institute on Drug Abuse [NIDA], 2008).
+
+> [!PDF|yellow] [[Chapter 16- Therapy and Treatment.pdf#page=26&selection=33,0,42,27&color=yellow|Chapter 16- Therapy and Treatment, p.26]]
+> > COMORBID DISORDERS Frequently, a person who is addicted to drugs and/or alcohol has an additional psychological disorder. Saying a person has comorbid disorders means the individual has two or more diagnoses. This can often be a substance-related diagnosis and another psychiatric diagnosis, such as depression, bipolar disorder, or schizophrenia.
 
 
 
-### 16.3
-	same as 16.2 but with the Treatment Modalities chapter of the book
-### 16.4
 
-### 16.5
+
 
 # Activity:
 Jeopardy?
