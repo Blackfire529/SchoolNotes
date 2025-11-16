@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5981860df3ed49ce",
+        "id": "21f99b3a54583469",
         "type": "tabs",
         "children": [
           {
-            "id": "c7d857372bf4a691",
+            "id": "4be1f1486d54296c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,19 +20,27 @@
               "icon": "lucide-file",
               "title": "Group 7 Chapter 16"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "5981860df3ed49ce",
+        "type": "tabs",
+        "children": [
           {
             "id": "a1fea1f95e835ec4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Psychology/PSYC.md",
-                "mode": "source",
-                "source": false
+                "file": "Psychology/Chapter 16- Therapy and Treatment.pdf",
+                "page": 19,
+                "left": -17,
+                "top": 656,
+                "zoom": 0.9019607843137256
               },
-              "icon": "lucide-file",
-              "title": "PSYC"
+              "icon": "lucide-file-text",
+              "title": "Chapter 16- Therapy and Treatment"
             }
           }
         ]
@@ -188,13 +196,20 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "c7d857372bf4a691",
+  "active": "4be1f1486d54296c",
   "lastOpenFiles": [
-    "Psychology/PSYC.md",
-    "Math 1740/Unit+Circle+with+Negative+Angles.pdf",
-    "Psychology/Group 7 Chapter 16.md",
     "Psychology/Chapter 16- Therapy and Treatment.pdf",
+    "Psychology/PSYC.md",
+    "Psychology/Group 7 Chapter 16.md",
+    "Math 1740/FactSheets/Useful Fact Sheet Module 3.docx",
+    "Math 1740/Unit+Circle+with+Negative+Angles.pdf",
+    "Math 1740/FactSheets/Useful Fact Sheet Module 3.pdf",
+    "Math 1740/FactSheets/Useful Fact Sheet Module 1.pdf",
+    "Math 1740/FactSheets/Useful Fact Sheet Module 2.pdf",
+    "Math 1740/FactSheets/Useful Fact Sheet Module 3 1.docx",
+    "Math 1740/FactSheets/QCE MM TRB for CX II-T 2025.pdf",
     "Math 1740/MATH Notes.md",
+    "College Path/Detail Schedule.md",
     "Math 1740/imgs/image-4.png",
     "Math 1740/imgs/image-3.png",
     "Math 1740/imgs/image-2.png",
@@ -204,13 +219,6 @@
     "Psychology/imgs/Psychology-OER Textbook.pdf",
     "Comp Systems & Software/Research Mats/Research Paper.md",
     "Comp Systems & Software/Research Mats/~WRD0018.tmp",
-    "Comp Systems & Software/Research Mats/~WRL0014.tmp",
-    "Comp Systems & Software/Research Mats/Written Paper/Report Example (2017F).pdf",
-    "Comp Systems & Software/Research Mats/Written Paper/Written Report Rubric.pdf",
-    "Comp Systems & Software/Research Mats/Written Paper/Sample Report with Guidelines (1).pdf",
-    "College Path/Detail Schedule.md",
-    "Comp Systems & Software/Research Mats/Backup of Personal computers - costs, purchase or build your own.wbk",
-    "Comp Systems & Software/Research Mats/~WRD1865.tmp",
     "College Path/Fall 2025.md",
     "Math 1740/imgs/Pasted image 20251108082329.png",
     "Math 1740/imgs/Pasted image 20251107102647.png",
